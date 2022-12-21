@@ -4,9 +4,11 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
+- 👀My real name is: **NGUYEN VAN TIEN DAT**
+- ✍ I'm a student of: [THPT Phan Huy Chú](https://c3phanhuychu.edu.vn/)
 
-- ✍ I'm a student of: [THPT Phan Huy Chú](https://c3phanhuychu.edu.vn/) (PHCEDU).
 
+- 🏡I am currently studying and living in **Hanoi**
 
 
 <br />
@@ -14,18 +16,15 @@
 ## 📫 How to reach me:
 
 
-  </a>
-  <a href="https://www.facebook.com/datackermann/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/Datdeptraiii" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UC4Yfm8h7Cg7uhJVp1zZiWFg" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="mailto:tiendatsk2006@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  
+
+ 
+ - Facebook: [Nguyễn Văn Đạt](https://www.facebook.com/datackermann)
+ - Email: [tiendatsk2006@gmail.com](mailto:tiendatsk2006@gmail.com)
+ - Github: [Datdeptraiii](https://github.com/Datdeptraiii/Datdeptraiii)
+ - Telegram: [Mit senpaiiii](https://t.me/Mit_senpaiiii)
+ - Twitter: [DatPhann](https://twitter.com/PhannDat)
+ - Zalo: [T. Đạt](zalo.me/0325410933)
   </a>
 </p>
 
