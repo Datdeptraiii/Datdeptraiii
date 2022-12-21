@@ -1,17 +1,10 @@
 **Hi 👋, I'm Dat**
 
- passionate developer from Vietnam 🇻🇳 </h3>
-</p>
+- passionate developer from Vietnam 🇻🇳 </h3>
 
 - 👀My real name is: **NGUYEN VAN TIEN DAT**
 - ✍ I'm a student of: [THPT Phan Huy Chú](https://c3phanhuychu.edu.vn/)
-
-
 - 🏡I am currently studying and living in **Hanoi**
-
-
-<br />
-
 ## 📫 How to reach me:
 
 
