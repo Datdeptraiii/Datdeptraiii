@@ -24,7 +24,6 @@
  - Github: [Datdeptraiii](https://github.com/Datdeptraiii/Datdeptraiii)
  - Telegram: [Mit senpaiiii](https://t.me/Mit_senpaiiii)
  - Twitter: [DatPhann](https://twitter.com/PhannDat)
- - Zalo: [T. Đạt](zalo.me/0325410933)
   </a>
 </p>
 
