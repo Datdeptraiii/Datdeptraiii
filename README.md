@@ -15,7 +15,7 @@
  - Email: [tiendatsk2006@gmail.com](mailto:tiendatsk2006@gmail.com)
  - Github: [Datdeptraiii](https://github.com/Datdeptraiii/Datdeptraiii)
  - Telegram: [Mit senpaiiii](https://t.me/Mit_senpaiiii)
- - Twitter: [DatPhann](https://twitter.com/PhannDat)
+ - Twitter: [tksaicomenasai](https://twitter.com/tksaicomenasai)
   </a>
 </p>
 
